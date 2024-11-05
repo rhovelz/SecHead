@@ -12,11 +12,9 @@ git clone https://github.com/rhovelz/SecHead && cd sechead
 ### Output
 ```
 ======================================================
- > SecHead - Rhovelz ..............................
-------------------------------------------------------
- A Magic Wand to check Security Headers
+> SecHead - Rhovelz ..............................
+A Magic Wand to check Security Headers
 ======================================================
-
 [*] Analyzing headers of https://www.google.com
 [*] Effective URL: https://www.google.com
 [!] Missing security header: Expect-CT
