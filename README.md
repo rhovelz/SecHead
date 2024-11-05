@@ -36,3 +36,10 @@ git clone https://github.com/rhovelz/SecHead && cd sechead
 [+] There are 0 security headers
 [-] There are not 12 security headers
 ```
+
+## Disclaimer
+
+```Not responsible for any damage caused by you!```
+
+
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)

@@ -40,14 +40,12 @@ cache_headers=("Cache-Control" "Pragma" "Last-Modified" "Expires" "ETag")
 declare -A headers
 
 function banner() {
-    log ""
-    log "======================================================"
-    log " > SecHead - Rhovelz .............................."
-    log "------------------------------------------------------"
-    log " A Magic Wand to check Security Headers "
-    log "======================================================"
-    log ""
+  echo -e "======================================================"
+  echo -e "> SecHead - Rhovelz .............................."
+  echo -e "A Magic Wand to check Security Headers "
+  echo -e "======================================================"
 }
+
 
 
 function colorize() {
